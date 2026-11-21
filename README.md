@@ -41,17 +41,7 @@ This repository implements, evaluates, and analyzes randomized dimensionality re
 
 ---
 
-## 2. Repository File Structure
 
-```text
-├── CSE558_Assignment_1.ipynb       # Fully executed Jupyter notebook (Code, outputs, Markdown answers)
-├── MT26155-MT26166-DSA1.pdf       # 7-page PDF report containing answers, labeled tables & figures
-├── MT26155-MT26166-DSA1.html      # Formatted HTML report (source for headless PDF export)
-├── MT26155-MT26166-DSA1.zip       # Final submission archive (contains PDF, .ipynb, and README)
-├── generate_final_report.py       # Automated script to export notebook to HTML and compile PDF
-├── data/                          # Cached KDD Cup 1999 dataset directory (scikit-learn fetch_kddcup99)
-└── README.md                      # Comprehensive project documentation (this file)
-```
 
 ---
 
